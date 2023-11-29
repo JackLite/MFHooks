@@ -3,7 +3,7 @@ using ModulesFramework.Data;
 using ModulesFramework.Modules;
 using ModulesFramework.Systems;
 
-namespace Modules.Extensions.Hooks.ModulesHooks
+namespace Modules.Extensions.Hooks
 {
     public static class HookUtils
     {

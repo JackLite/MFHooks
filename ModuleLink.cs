@@ -1,6 +1,6 @@
 ﻿using ModulesFramework.Modules;
 
-namespace Modules.Extensions.Hooks.ModulesHooks
+namespace Modules.Extensions.Hooks
 {
     /// <summary>
     ///     Used to link some entity to module.

@@ -1,6 +1,6 @@
 ﻿using ModulesFramework.Systems;
 
-namespace Modules.Extensions.Hooks.ModulesHooks
+namespace Modules.Extensions.Hooks
 {
     public struct SystemLink
     {
